@@ -22,7 +22,7 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: inherit;
+	font: helvetica;
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
@@ -504,7 +504,7 @@ input, select, textarea {
 		font-weight: 300;
 		font-size: 18pt;
 		line-height: 1.75em;
-		color: #39454b;
+		color: #ffffff;
 		letter-spacing: 0.025em;
 	}
 
@@ -551,12 +551,12 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 900;
-		color: inherit;
+		color: #ffffff;
 		letter-spacing: -0.0325em;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
+			color: #ffffff;
 			text-decoration: none;
 		}
 
@@ -2028,7 +2028,7 @@ input, select, textarea {
 			}
 
 			.main.style3.primary {
-				background: #ffffff;
+				background: #23282B;
 			}
 
 			.main.style3.secondary {
